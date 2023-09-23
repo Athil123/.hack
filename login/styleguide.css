@@ -1,0 +1,26 @@
+:root {
+  --body-text-font-family: "RobotoFlex-Regular", Helvetica;
+  --body-text-font-weight: 400;
+  --body-text-font-size: 20px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: 40px;
+  --body-text-font-style: normal;
+  --text-font-family: "Outfit-Bold", Helvetica;
+  --text-font-weight: 700;
+  --text-font-size: 75px;
+  --text-letter-spacing: 0px;
+  --text-line-height: 100px;
+  --text-font-style: normal;
+  --medium-font-font-family: "KiteOne-Regular", Helvetica;
+  --medium-font-font-weight: 400;
+  --medium-font-font-size: 32px;
+  --medium-font-letter-spacing: 19.84px;
+  --medium-font-line-height: 153.4999966621399%;
+  --medium-font-font-style: normal;
+  --button-text-font-family: "RobotoMono-Regular", Helvetica;
+  --button-text-font-weight: 400;
+  --button-text-font-size: 20px;
+  --button-text-letter-spacing: 2.3px;
+  --button-text-line-height: 40px;
+  --button-text-font-style: normal;
+}
