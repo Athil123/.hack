@@ -6,7 +6,7 @@ const supabaseKey = process.env.REACT_APP_ANNON_KEY
 const supabase = createClient(supabaseUrl, supabaseKey)
 
 
-async function fetchBusDetails() {
+/*async function fetchBusDetails() {
     const { data, error } = await supabase.from('bus_details').select('*');
   
     if (error) {
@@ -17,4 +17,4 @@ async function fetchBusDetails() {
     }
   }
   
-  fetchBusDetails();
+  fetchBusDetails();*/
